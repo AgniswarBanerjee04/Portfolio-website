@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Github, Linkedin, Mail, Brain, Server, Code, ChevronDown, Briefcase, Sparkles, Home, User, Wrench, Phone, MonitorSmartphone, GraduationCap, ExternalLink } from 'lucide-react';
 
@@ -72,7 +72,7 @@ function App() {
       image: "https://us.123rf.com/450wm/d8nn/d8nn2201/d8nn220100386/180326694-modern-black-workspace-with-a-copy-space-for-product-display-digital-devices-and-supplies-top-view.jpg?ver=6",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "TypeScript"],
       liveLink: "https://agni-portfolio77.netlify.app/",
-      githubLink: "https://github.com/AgniswarBanerjee04/portfolio"
+      githubLink: "https://github.com/AgniswarBanerjee04/Portfolio-website"
     },
     {
       title: "Eduplay",
@@ -80,7 +80,7 @@ function App() {
       image: "https://c0.wallpaperflare.com/preview/722/962/382/learn-student-laptop-internet.jpg",
       technologies: ["Next.js", "MongoDB", "Redux", "Material UI"],
       liveLink: "https://singular-cheesecake-90cee8.netlify.app",
-      githubLink: "https://github.com/AgniswarBanerjee04/ecommerce-dashboard"
+      githubLink: "https://github.com/AgniswarBanerjee04/EduPlay"
     },
     {
       title: "Expense-Tracker",
